@@ -73,7 +73,7 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
             </div>
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-end navbar-item">
               <p>Call us on 01524 823013</p>
             </div>
           </div>
