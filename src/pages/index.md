@@ -15,33 +15,25 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/bunny.jpg
+      header: Unmatched reliability
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We appreciate that your pet going missing can be upsetting, however the 
+        more information you can give us, the better the chance of finding them. 
+        We will want as much information as possible about your lost pet - 
+        names, male or female, whether your pet is neutered and/or microchipped,
+        their colour, whether they have a collar, and any special features. 
+        Photos or videos are a great help.
+        Alternatively, if you've found a pet, let us know. Chances are that pet
+        belongs to someone who is desperately hoping to be reunited.
+    - image: /img/horse.jpg
+      header: Become a Pet Searcher
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We are always looking for volunteers to join the team. If you would like
+        to become a petsearcher for the outlying areas of Lancaster & Morecambe, 
+        get in touch with us today. All we ask of you is your time, so if you'd 
+        like to help with coffee mornings or help out in other ways, please just 
+        let us know.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

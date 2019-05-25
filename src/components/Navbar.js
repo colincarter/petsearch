@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/Pets-logo.png'
 
 const Navbar = class extends React.Component {
@@ -64,7 +63,7 @@ const Navbar = class extends React.Component {
                 Lost and Found Pets
               </Link>
               <Link className="navbar-item" to="/products">
-                Pets suspected Stolen
+                Pets Suspected Stolen
               </Link>
               <Link className="navbar-item" to="/blog">
                 Reunited Pets and Happy Endings
