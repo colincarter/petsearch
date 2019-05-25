@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Missing pets reunited in Lancaster
+image: /img/home-pet-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: At Petsearch Register of Lost & Found Pets
 mainpitch:
-  title: Why Kaldi
+  title: A reliable and friendly service
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    At Petsearch Register of Lost & Found Pets, we are a voluntary service that aims to reunite lost pets with their owners. The service has been going for nearly 20 years and is the only group of its kind in the area. Over 300 people have called us in the past year and we are proud to say well over half of the lost animals have been returned to their owners. If you're looking for a missing pet in the Lancaster area, contact us today.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
+          alignItems: 'right',
           flexDirection: 'column',
         }}
       >
@@ -45,6 +45,7 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
+            textAlign: 'right',
           }}
         >
           {title}
